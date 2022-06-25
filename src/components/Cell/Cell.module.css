@@ -1,0 +1,12 @@
+.cell {
+    width: 175px;
+    height: 175px;
+    border: 2.5px solid black;
+    position: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.currentCell {
+    background-color: bisque;
+}
